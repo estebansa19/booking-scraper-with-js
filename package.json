@@ -1,0 +1,23 @@
+{
+  "name": "booking-scraper",
+  "version": "1.0.0",
+  "description": "Booking scraper with nodejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebansa19/booking-scraper-with-js.git"
+  },
+  "author": "Esteban Saldarriaga Alzate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebansa19/booking-scraper-with-js/issues"
+  },
+  "homepage": "https://github.com/estebansa19/booking-scraper-with-js#readme",
+  "dependencies": {
+    "puppeteer-core": "^10.4.0"
+  }
+}
